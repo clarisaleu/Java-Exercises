@@ -1,4 +1,5 @@
-//Reserves string s
+	//Reserves string s
+	//A simple function
 
 
 	public static String reverse(String s) {
